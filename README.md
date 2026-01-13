@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React and Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [https://kabidoye-17.github.io/KellysPortfolio/](https://kabidoye-17.github.io/KellysPortfolio/)
-
 - 📫 How to reach me **Kabidoye17@outlook.com**
 
 - ⚡ Fun fact **I like to crochet**
